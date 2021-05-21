@@ -7,6 +7,10 @@
 
 import java.util.Scanner;
 
+/**
+ * Question - https://codeforces.com/problemset/problem/263/A
+ * */
+
 public class BeautifulMatrix {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
