@@ -8,6 +8,10 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * Question - https://codeforces.com/problemset/problem/160/A
+ * */
+
 public class Twins {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
