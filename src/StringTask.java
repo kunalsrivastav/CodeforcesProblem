@@ -7,6 +7,10 @@
 
 import java.util.Scanner;
 
+/**
+ * Question - https://codeforces.com/problemset/problem/118/A
+ * */
+
 public class StringTask {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
