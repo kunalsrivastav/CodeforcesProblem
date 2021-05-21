@@ -7,6 +7,10 @@
 
 import java.util.Scanner;
 
+/**
+ * Question - https://codeforces.com/problemset/problem/112/A
+ * */
+
 public class PetyaAndStrings {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
