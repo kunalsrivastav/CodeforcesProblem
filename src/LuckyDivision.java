@@ -7,6 +7,10 @@
 
 import java.util.Scanner;
 
+/**
+ * Question - https://codeforces.com/problemset/problem/122/A
+ * */
+
 public class LuckyDivision {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
