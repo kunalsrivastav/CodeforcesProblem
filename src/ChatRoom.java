@@ -7,6 +7,10 @@
 
 import java.util.Scanner;
 
+/**
+ * Question - https://codeforces.com/problemset/problem/58/A
+ * */
+
 public class ChatRoom {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
